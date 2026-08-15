@@ -159,3 +159,4 @@ Measures the total number of users impacted by cybersecurity incidents.
 ```DAX
 Total Affected Users =
 SUM('Global Cybersecurity Threats'[Number of Affected Users])
+```
