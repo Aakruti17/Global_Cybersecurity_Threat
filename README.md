@@ -40,7 +40,7 @@ The main objective is to transform raw cybersecurity data into meaningful visual
 ## 🖥️ Dashboard Page 1 — Global Cybersecurity Overview
 
 <p align="center">
-  <img src="dashboard-page-1.png" alt="Global Cybersecurity Dashboard Page 1" width="100%">
+  <img src="Dashboard page 1.png" alt="Global Cybersecurity Dashboard Page 1" width="100%">
 </p>
 
 ### Key Features
@@ -58,7 +58,7 @@ The main objective is to transform raw cybersecurity data into meaningful visual
 ## 🖥️ Dashboard Page 2 — Financial Loss Analysis
 
 <p align="center">
-  <img src="dashboard-page-2.png" alt="Global Cybersecurity Dashboard Page 2" width="100%">
+  <img src="Dashboard page 2.png" alt="Global Cybersecurity Dashboard Page 2" width="100%">
 </p>
 
 ### Key Features
@@ -75,7 +75,7 @@ The main objective is to transform raw cybersecurity data into meaningful visual
 ## 🖥️ Dashboard Page 3 — Affected Users & Detailed Analysis
 
 <p align="center">
-  <img src="dashboard-page-3.png" alt="Global Cybersecurity Dashboard Page 3" width="100%">
+  <img src="Dashboard page 3.png" alt="Global Cybersecurity Dashboard Page 3" width="100%">
 </p>
 
 ### Key Features
@@ -159,8 +159,5 @@ Measures the total number of users impacted by cybersecurity incidents.
 ```DAX
 Total Affected Users =
 SUM('Global Cybersecurity Threats'[Number of Affected Users])
-
-Total Financial Loss =
-SUM('Global Cybersecurity Threats'[Financial Loss (in Million $)])
 ```
 
